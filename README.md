@@ -79,6 +79,9 @@
 　４．ＡＰＩによるその他分析<br>
 　　　４－１　YouTube Analytics APIの"audienceWatchRatio"で任意の時間の視聴率のようなものを取得できる模様。<br>
 　　　　　　　視聴率が高いシーン＝見どころシーンとみなせるかも？<br>
+<br>
+　５．グラフをクリックしたら●●やる～とかPython<で無理じゃね？<br>
+　　　５－１　Tkinterがあるだろ。<br>
  <br>
 <br>
 ## 進捗
